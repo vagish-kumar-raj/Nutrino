@@ -1,14 +1,6 @@
-h1{
-    color: green;
-    text-decoration: underline orange;
-}
-
-p{
-    color:darkred;
-}
-
 h2{
-    color: darkblue;
+    color: red;
+    font-family: "fantasy";
 }
 
 h3{
@@ -16,14 +8,21 @@ h3{
 }
 
 body{
-    background-color: #d3ffb5;
+    background-color: #aeff77;
 }
 
 hr{
-    border: 1px solid #33ff00;
+    border: 1px solid #945c18;
 }
 
 #menu-title{
     color: darkgreen;
     text-decoration: underline rgb(0, 255, 0);
+}
+
+.header-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
 }
