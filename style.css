@@ -1,23 +1,17 @@
-h2{
-    color: red;
-    font-family: "fantasy";
+body{
+    background-color: #00ff00;
+}
+
+h1{
+    color: #0048ac;
 }
 
 h3{
-    color: darkred;
-}
-
-body{
-    background-color: #aeff77;
+    color: #0048ac;
 }
 
 hr{
-    border: 1px solid #945c18;
-}
-
-#menu-title{
-    color: darkgreen;
-    text-decoration: underline rgb(0, 255, 0);
+    border: 1px solid #ff0000;
 }
 
 .header-logo {
@@ -26,3 +20,4 @@ hr{
     justify-content: center;
     margin-bottom: 20px;
 }
+
